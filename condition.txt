@@ -1,0 +1,2 @@
+//écriver TRUE après l'égale pour accepter les conditions d'utilisation et pouvoir utiliser notre programme. En marquant que vous accepter nous considérons que vous avez lu les conditions et les avez accepté
+condition_utilisation = True
