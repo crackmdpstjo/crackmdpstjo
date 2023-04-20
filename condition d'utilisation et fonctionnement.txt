@@ -14,6 +14,9 @@ python -m pip install scapy
 Quand ceci est fait vous pourrais utiliser notre logicièle en démarant le fichier 'crack_mdp_stjo.py'.
 
 Vous pouvez me contacter à crackmdpstjo@tutamail.com, tous les messages que j'enverrais seront cryptés, le mot de passe pour décrypter est: crackmdpstjo
+Si vous voulez que votre compte se face pas crack, vous pouvez me contacter à mon adresse mail. Mais vous n'aurez plus le droit d'utiliser notre logiciel pour crack d'autres personnes.
+
+
 
 
 
